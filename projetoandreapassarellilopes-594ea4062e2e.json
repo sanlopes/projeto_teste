@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projetoandreapassarellilopes",
+  "private_key_id": "594ea4062e2eae4437583b87d24fb5a892b1449a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrxc3+xYXrDEPI\nrXnQiWUnnZJA4QYuuCg66Y4JdfjqI+ag3qCdLI8RF2Jtzj0qGU2Dwcp9MZEILdPa\nsnE5o4q55m2/QHyivk96kB5lMDUYO7ZNLNd6prhZmZ1yuMbesYbeqzMnETapDWHV\nS8U5M4lkOQsWdZp5vm3ov6v9MWwm1qN2y4Fyj0dPapZ6G6a3EdWZTymoDMnVCmRt\nDD/7wuj/cO8wyrAmrzUm04hVe+nRMwDNOJRzTtNE+XUN6bwmxmxLppSHjoQP7+nC\nQGE3KZnwiQg8ss835AGD9SRd+D9tNTvBcD3VsNBobMaTfzCKiQ4GNGzc49WqJ9MI\nw1qV00lrAgMBAAECggEAEEzN9m4x/hME36culw5irfay6TsxRf+tuaFuHBG41Cch\n/IQDw8Z1sQ6CBZ97iGIsS+N43pZ0h80pfGhQfEK7qFZodayd5yeeDShd6gZAE5Of\nAgXOUNI/TilYmolUPc+k175xNTTZ9gLSFNaC2aG9WOhc1/3C8eiTL3H41Sb6d1jg\n3GUi8QmoaYuOPwwtg6L3UTP72fd8ltZqsICWrVbGuZvVqKlGYUFHT74WIlgcNCvT\nnLtJZzQK9FuT/iwXIzlPfh5l+g5WDVehSRxE7E+2GYGq1XGs12zDEIBTrjE8q+NW\nr/z9VTtE6kzEJDN2nUfpRSjbBCU+D9E2YMryM681+QKBgQDn1B6W+cUQR4mfrR0l\nLSjeBi8X28UikHTlgvSM3L/ZTJtnauaCZKaKpNK+65RQvuYIl9b/4YefShudSSA7\ns42xNVqzYaN0ApykWucqR+n1qfdIDYYMbSkatckoyQ0V2RfkaVLQnCiNPdlFJ/jx\ninlIvthQGciqEY6kC5OCn6u2fQKBgQC9rrIMLZl1Qz0jpRav+sMuJsTOagxapeVV\nIti2C/m25D/OJLH07fhXepO/ebOgTgdUJXRtkRnlN2WrkZNRI7cTSMSmt6rsqgJb\nj4sFmJJn64YWVhhfdWm/MdBtF1SB1FSPUGOuQUmavYEWRWGoo1aXaz/y5eud/Say\nrEkzcYw8BwKBgC23iwDC6LW5Jc6zWNgH+9Ms7QSLdmjGjAbmuEs/DSZRESRn1GVK\na/1TW6wC0RDLVJnFN8TmONSUzLVLwmuDkSGtH+HYE1/BVBqlQoj3/Y9QoU84O4Mf\n08dMqgq8+zOfyDJnAsnYwbZ4x+v3YgRgBmLuH8JME2JWbAa1sbVEv5wRAoGBALnZ\nsmBWSXbow73qIpmYtKbCm7C3nZUv2M0bEIUGpMy7RX0g3TBj/iEQXDWO9B4MdgfP\njw1Pz7SUG80IHPSybs25Td0gNpweU6MMuSVpgYHK9h1qjAT0EQGhuFs7MbTnq1ak\naJazJ4AzT4jXwEEwkUZZclX3S24IPWNxhWOfTMz/AoGBAKtnXi7KTcR74NaqDThR\nBsNJnrY2TQt53qUf/ZauCDzZfmcV1h/TFKczK1whu/idm8dCnCd0mFuvK29gMLI/\n9YOBV3QCpYZ+uD3OFA314m0bBcio79d4PeCiSQVqBpWXLyk3K335mELNilSt/qVt\nZn4W5nzc8b0pmZ1aTbZajbpt\n-----END PRIVATE KEY-----\n",
+  "client_email": "aplopes2002@projetoandreapassarellilopes.iam.gserviceaccount.com",
+  "client_id": "114842975790785349546",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aplopes2002%40projetoandreapassarellilopes.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
